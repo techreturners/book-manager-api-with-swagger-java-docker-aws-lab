@@ -20,4 +20,4 @@ For deployment you'll also need:
 ## How to Get Started
 
 1. Fork this repo to your Github and then clone the forked version of this repo
-2. Work through the activities in the activities folder starting with [Activity 1](./activities/activity_1.md).
+2. Work through the activities in the activities folder starting with [Activity 1](./activities/activity_1.md).# jv-deploy-to-cloud-coach-demo
